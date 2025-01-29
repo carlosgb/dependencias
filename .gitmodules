@@ -40,3 +40,6 @@
 [submodule "SoapyBladeRF"]
 	path = SoapyBladeRF
 	url = https://github.com/pothosware/SoapyBladeRF.git
+[submodule "SoapyPlutoSDR"]
+	path = SoapyPlutoSDR
+	url = https://github.com/pothosware/SoapyPlutoSDR.git
