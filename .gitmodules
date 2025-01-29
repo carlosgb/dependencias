@@ -10,3 +10,6 @@
 [submodule "hackrf"]
 	path = hackrf
 	url = https://github.com/greatscottgadgets/hackrf.git
+[submodule "gr-osmosdr"]
+	path = gr-osmosdr
+	url = https://github.com/Nuand/gr-osmosdr.git
