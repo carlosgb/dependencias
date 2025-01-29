@@ -25,3 +25,6 @@
 [submodule "sigutils"]
 	path = sigutils
 	url = https://github.com/BatchDrake/sigutils.git
+[submodule "SuWidgets"]
+	path = SuWidgets
+	url = https://github.com/BatchDrake/SuWidgets.git
