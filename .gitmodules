@@ -7,3 +7,6 @@
 [submodule "bladeRF"]
 	path = bladeRF
 	url = https://github.com/Nuand/bladeRF
+[submodule "hackrf"]
+	path = hackrf
+	url = https://github.com/greatscottgadgets/hackrf.git
