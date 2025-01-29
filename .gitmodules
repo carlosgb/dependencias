@@ -16,3 +16,6 @@
 [submodule "gqrx"]
 	path = gqrx
 	url = https://github.com/gqrx-sdr/gqrx.git
+[submodule "SigDigger"]
+	path = SigDigger
+	url = https://github.com/BatchDrake/SigDigger.git
