@@ -13,3 +13,6 @@
 [submodule "gr-osmosdr"]
 	path = gr-osmosdr
 	url = https://github.com/Nuand/gr-osmosdr.git
+[submodule "gqrx"]
+	path = gqrx
+	url = https://github.com/gqrx-sdr/gqrx.git
