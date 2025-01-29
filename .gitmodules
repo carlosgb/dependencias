@@ -31,3 +31,6 @@
 [submodule "SoapySDR"]
 	path = SoapySDR
 	url = https://github.com/pothosware/SoapySDR.git
+[submodule "SoapyRTLSDR"]
+	path = SoapyRTLSDR
+	url = https://github.com/pothosware/SoapyRTLSDR.git
