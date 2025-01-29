@@ -28,3 +28,6 @@
 [submodule "SuWidgets"]
 	path = SuWidgets
 	url = https://github.com/BatchDrake/SuWidgets.git
+[submodule "SoapySDR"]
+	path = SoapySDR
+	url = https://github.com/pothosware/SoapySDR.git
