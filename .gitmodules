@@ -4,3 +4,6 @@
 [submodule "volk"]
 	path = volk
 	url = https://github.com/gnuradio/volk.git
+[submodule "bladeRF"]
+	path = bladeRF
+	url = https://github.com/Nuand/bladeRF
