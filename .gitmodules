@@ -19,3 +19,6 @@
 [submodule "SigDigger"]
 	path = SigDigger
 	url = https://github.com/BatchDrake/SigDigger.git
+[submodule "suscan"]
+	path = suscan
+	url = https://github.com/BatchDrake/suscan.git
