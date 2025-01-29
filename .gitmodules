@@ -37,3 +37,6 @@
 [submodule "SoapyHackRF"]
 	path = SoapyHackRF
 	url = https://github.com/pothosware/SoapyHackRF.git
+[submodule "SoapyBladeRF"]
+	path = SoapyBladeRF
+	url = https://github.com/pothosware/SoapyBladeRF.git
