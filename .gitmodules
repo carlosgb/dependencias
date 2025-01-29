@@ -43,3 +43,6 @@
 [submodule "SoapyPlutoSDR"]
 	path = SoapyPlutoSDR
 	url = https://github.com/pothosware/SoapyPlutoSDR.git
+[submodule "SoapyUHD"]
+	path = SoapyUHD
+	url = https://github.com/pothosware/SoapyUHD.git
