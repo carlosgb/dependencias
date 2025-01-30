@@ -94,3 +94,6 @@
 [submodule "rtl-sdr"]
 	path = rtl-sdr
 	url = https://github.com/osmocom/rtl-sdr.git
+[submodule "Artemis"]
+	path = Artemis
+	url = https://github.com/AresValley/Artemis.git
