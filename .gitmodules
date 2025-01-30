@@ -64,3 +64,6 @@
 [submodule "libiio"]
 	path = libiio
 	url = https://github.com/analogdevicesinc/libiio.git
+[submodule "gnss-sdr-monitor"]
+	path = gnss-sdr-monitor
+	url = https://github.com/acebrianjuan/gnss-sdr-monitor.git
