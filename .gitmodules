@@ -58,3 +58,6 @@
 [submodule "dji_droneid"]
 	path = dji_droneid
 	url = https://github.com/proto17/dji_droneid.git
+[submodule "libad9361-iio"]
+	path = libad9361-iio
+	url = https://github.com/analogdevicesinc/libad9361-iio.git
