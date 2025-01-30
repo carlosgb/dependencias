@@ -46,3 +46,6 @@
 [submodule "SoapyUHD"]
 	path = SoapyUHD
 	url = https://github.com/pothosware/SoapyUHD.git
+[submodule "photonmap"]
+	path = photonmap
+	url = https://github.com/ckoval7/photonmap.git
