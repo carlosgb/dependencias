@@ -79,3 +79,6 @@
 [submodule "inspectrum"]
 	path = inspectrum
 	url = https://github.com/miek/inspectrum.git
+[submodule "urh"]
+	path = urh
+	url = https://github.com/jopohl/urh.git
