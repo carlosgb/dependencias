@@ -82,3 +82,6 @@
 [submodule "urh"]
 	path = urh
 	url = https://github.com/jopohl/urh.git
+[submodule "antsdr_dji_droneid"]
+	path = antsdr_dji_droneid
+	url = https://github.com/alphafox02/antsdr_dji_droneid.git
