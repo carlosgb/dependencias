@@ -88,3 +88,6 @@
 [submodule "antsdr_uhd"]
 	path = antsdr_uhd
 	url = https://github.com/MicroPhase/antsdr_uhd.git
+[submodule "DroneSecurity"]
+	path = DroneSecurity
+	url = https://github.com/RUB-SysSec/DroneSecurity.git
