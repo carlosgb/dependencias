@@ -97,3 +97,6 @@
 [submodule "Artemis"]
 	path = Artemis
 	url = https://github.com/AresValley/Artemis.git
+[submodule "gr-inspector"]
+	path = gr-inspector
+	url = https://github.com/gnuradio/gr-inspector.git
