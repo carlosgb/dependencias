@@ -52,3 +52,6 @@
 [submodule "df-aggregator"]
 	path = df-aggregator
 	url = https://github.com/ckoval7/df-aggregator.git
+[submodule "gnss-sdr"]
+	path = gnss-sdr
+	url = https://github.com/gnss-sdr/gnss-sdr.git
