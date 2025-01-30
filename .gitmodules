@@ -73,3 +73,6 @@
 [submodule "bladeGPS"]
 	path = bladeGPS
 	url = https://github.com/osqzss/bladeGPS.git
+[submodule "signalserver_gui"]
+	path = signalserver_gui
+	url = https://github.com/thetacom/signalserver_gui.git
