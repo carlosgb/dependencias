@@ -91,3 +91,6 @@
 [submodule "DroneSecurity"]
 	path = DroneSecurity
 	url = https://github.com/RUB-SysSec/DroneSecurity.git
+[submodule "rtl-sdr"]
+	path = rtl-sdr
+	url = https://github.com/osmocom/rtl-sdr.git
