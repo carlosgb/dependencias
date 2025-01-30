@@ -49,3 +49,6 @@
 [submodule "photonmap"]
 	path = photonmap
 	url = https://github.com/ckoval7/photonmap.git
+[submodule "df-aggregator"]
+	path = df-aggregator
+	url = https://github.com/ckoval7/df-aggregator.git
