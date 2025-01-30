@@ -76,3 +76,6 @@
 [submodule "signalserver_gui"]
 	path = signalserver_gui
 	url = https://github.com/thetacom/signalserver_gui.git
+[submodule "inspectrum"]
+	path = inspectrum
+	url = https://github.com/miek/inspectrum.git
