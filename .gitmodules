@@ -85,3 +85,6 @@
 [submodule "antsdr_dji_droneid"]
 	path = antsdr_dji_droneid
 	url = https://github.com/alphafox02/antsdr_dji_droneid.git
+[submodule "antsdr_uhd"]
+	path = antsdr_uhd
+	url = https://github.com/MicroPhase/antsdr_uhd.git
