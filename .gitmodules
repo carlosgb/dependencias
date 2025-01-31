@@ -100,3 +100,6 @@
 [submodule "gr-inspector"]
 	path = gr-inspector
 	url = https://github.com/gnuradio/gr-inspector.git
+[submodule "uhd"]
+	path = uhd
+	url = https://github.com/EttusResearch/uhd.git
