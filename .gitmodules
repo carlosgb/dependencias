@@ -103,3 +103,6 @@
 [submodule "uhd"]
 	path = uhd
 	url = https://github.com/EttusResearch/uhd.git
+[submodule "Signal-Server"]
+	path = Signal-Server
+	url = https://github.com/W3AXL/Signal-Server.git
