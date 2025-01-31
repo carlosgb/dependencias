@@ -106,3 +106,6 @@
 [submodule "Signal-Server"]
 	path = Signal-Server
 	url = https://github.com/W3AXL/Signal-Server.git
+[submodule "kismet"]
+	path = kismet
+	url = https://github.com/kismetwireless/kismet.git
